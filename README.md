@@ -1,2 +1,4 @@
-# Hello-world
- Primeiro repositório versionado
+# Hello, World!
+ Primeiro repositório do cruso de Git e GitHub
+
+ Repositório criado durante uma aula do curso de Git e GitHub
